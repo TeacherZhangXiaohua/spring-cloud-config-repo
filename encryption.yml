@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: root
+    password: '{cipher}d6365fe2c2562309e57703da32a110f849c4a83217ae50ee15e770952014a404'
